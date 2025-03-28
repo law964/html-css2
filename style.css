@@ -166,6 +166,7 @@ main img {
 }
 
 img {
+    display: inline;
     width: auto;
     height: auto;
 
