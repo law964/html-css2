@@ -14,7 +14,7 @@
  /* importar font do dispositivo */
  @font-face {
     font-family: 'android';
-    src: url(../fontes/idroid.otf);
+    src: url(fontes/idroid.otf);
  }
 
  /* configurações globais */
